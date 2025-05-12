@@ -24,7 +24,7 @@ Each row represents a customer with the following features:
 
 ---
 
-## 📊 Methodology
+##  Methodology
 
 1. **Data Cleaning**
    - Already done before analysis (no missing or inconsistent values)
@@ -40,7 +40,7 @@ Each row represents a customer with the following features:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 | Metric                          | Value        |
 |--------------------------------|--------------|
