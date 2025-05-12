@@ -69,13 +69,4 @@ Each row represents a customer with the following features:
 ##  Tools Used
 
 - **Microsoft Excel** (pivot tables, filtering, formulas)
-- **GitHub** for version control and documentation
 
----
-
-##  Portfolio Note
-
-This project demonstrates the ability to:
-- Ask business-relevant questions
-- Slice data into actionable segments
-- Communicate results clearly and visually
